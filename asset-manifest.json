@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minimal-clothing/static/css/main.4e90b931.css",
+    "main.js": "/minimal-clothing/static/js/main.c0618e19.js",
+    "static/js/453.e48f0bb8.chunk.js": "/minimal-clothing/static/js/453.e48f0bb8.chunk.js",
+    "index.html": "/minimal-clothing/index.html",
+    "main.4e90b931.css.map": "/minimal-clothing/static/css/main.4e90b931.css.map",
+    "main.c0618e19.js.map": "/minimal-clothing/static/js/main.c0618e19.js.map",
+    "453.e48f0bb8.chunk.js.map": "/minimal-clothing/static/js/453.e48f0bb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4e90b931.css",
+    "static/js/main.c0618e19.js"
+  ]
+}
