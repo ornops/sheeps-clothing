@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/sheeps-clothing/static/css/main.4e90b931.css",
+    "main.css": "/sheeps-clothing/static/css/main.44136510.css",
     "main.js": "/sheeps-clothing/static/js/main.7fa87028.js",
     "static/js/453.917b2f4a.chunk.js": "/sheeps-clothing/static/js/453.917b2f4a.chunk.js",
     "index.html": "/sheeps-clothing/index.html",
-    "main.4e90b931.css.map": "/sheeps-clothing/static/css/main.4e90b931.css.map",
+    "main.44136510.css.map": "/sheeps-clothing/static/css/main.44136510.css.map",
     "main.7fa87028.js.map": "/sheeps-clothing/static/js/main.7fa87028.js.map",
     "453.917b2f4a.chunk.js.map": "/sheeps-clothing/static/js/453.917b2f4a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e90b931.css",
+    "static/css/main.44136510.css",
     "static/js/main.7fa87028.js"
   ]
 }
