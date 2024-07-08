@@ -14,7 +14,7 @@ return (
       <Route index element={<Home/>}/>
       <Route path='shop' element={<Shop/>}/>
       <Route path='contact' element={<Contact/>}/>
-      <Route path='signIn' element={<SignIn/>}/>
+      <Route path='sign-in' element={<SignIn/>}/>
     </Route>
   </Routes>
   );

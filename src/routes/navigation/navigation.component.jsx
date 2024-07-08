@@ -8,7 +8,7 @@ const Navigation = () => {
     return(
         <Fragment>
           <div className='navigation' to='/'>
-            <Link className='logo-container'>
+            <Link className='logo-container' to='/'>
                 <CrwnLogo className='logo'/>
             </Link>
             <div className="nav-links-container">
@@ -18,7 +18,7 @@ const Navigation = () => {
                 <Link className='nav-link' to='/contact'>
                  CONTACT
                 </Link>
-                <Link className='nav-link' to='/signIn'>
+                <Link className='nav-link' to='/sign-in'>
                  SIGN IN
                 </Link>
             </div>
